@@ -14,3 +14,7 @@ Implementation of Programming languages (Compilers): BisonC++
 Operating systems: C, C++ (we read the code of a toy operating system)
 Machine Learning: Python (sklearn)
 (Edit) Advanced Machine Learning: Python (tensorflow)
+
+
+
+........,.,,.,.,.,''''
